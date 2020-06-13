@@ -85,6 +85,32 @@ ignore what we're doing and I want to be able make a difference and using the in
 to fight the threat of plastics and prevent more danger to our oceans.
 
 
+### User and Project Goals
+
+I would also like users:
+
+
+### User Objects
+
+* Envirosea has been designed for the soul purpose of changing the planet. As a life support to Earth, we must protect our oceans. 97% of
+the worlds water is held by the ocean and provides us with so much. It regulates our climate, absorbs CO2 and provides us with sustainable
+resources. My goal is for this to become a mainstream site and help change the planet.
+
+* Aimed at everyone to help the cause
+* Informative and helpful to understand the changes we need to make
+* Easy to use
+* Well designed
+* Engaging with the users
+* A good strong layout with colour choices
+* Well thought out Content
+
+### Developer Objects
+
+
+
+
+
+
 
 
 
