@@ -38,8 +38,16 @@ need to change this. Welcome to the Envirosea Project.
 
 ### Project Functionailty of Envirosea. 
 
-
-
+The Envirosea application is a full-stack built project built using business logic to create a central databsae created using SQL.
+It using Django Frameworks as the main backbone of the project but also incoroprates HTML, CSS and JavaScript for design purposes.
+It has CRUD technology built in so a user can update their information and this will transfer to the dataset at the backend. It's 
+a fully functional site using all elements of Full Stack to create a fully designed project. Defensive design has also been used for
+a users protection and so Registration and Login are two key factors of the site. This protects the users data entries and is a secure
+way of protecting the information they add to the database. As well as the software used for designing the various elements, the Heroku
+platform is also used to create an online portal to the user. New changes to the site are controlled using Git and GitHub commanmds to
+push information to Heroku. Secret Keys are also used and I have included .env files and .gitignore to stop essential security data
+from being accessible to an outside user. To enhance layout and responsive fluidity on the site, Bootstrap is also used as part of the 
+design of the project as it's such a great resource. 
 
 
 
