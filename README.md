@@ -51,6 +51,41 @@ design of the project as it's such a great resource.
 
 
 
+### UX (User Experience)
+
+### User Stories
+
+* As a user. The site must:
+
+1. Be designed with high importance and finished to a high standard for the user. Good design and functionailty are core within the project.
+
+2. Have easy to use registration and login features. I also want to be able to use the purchasing system with ease and not get errors when
+using the shopping features of the site.
+
+3. Have good information to help me learn what the site is about. What information does Envirosea provide and how does it engage with me. 
+
+4. Not be hard to use. I don't want the site to have broken elements or cause me levels of uncertainty when purchasing. Security and Defensive
+design must be well thought out and of a high standard.
+
+5. Get through to me. This site should help me see what we're doing to our planet. How can I change it and if I have to see something which 
+may cause me discomfort, it is all part of the project.
+
+* For me as a developer. Creating this site has:
+
+1. Really opened my eyes to the amazing work that can be created with a heavy duty framework. Django as the next logical step from Python is
+clever, well built and robust and showcases what can be achieved as a full stack developer.
+
+2. Made me think more about the environment, what we're doing and what can we do to help. I want a user to feel the same and to use this 
+site to help re-shape the future of our ocenas and the planet.
+
+3. Hopefully started something. I want the site to grow a following and to help the ongoing fight of protecting all marine life. We can't 
+ignore what we're doing and I want to be able make a difference and using the internet and this site is a good place to start.
+
+4. Helped me to understnad more about the state of the world. I hope this site becomes a reality and people can learn and help develop changes
+to fight the threat of plastics and prevent more danger to our oceans.
+
+
+
 
 
 full stack based project using business logic. The front end 
