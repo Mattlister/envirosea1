@@ -1,39 +1,58 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+Envirosea
 
-Welcome Matthew Lister,
+Envirosea is a website dedicated to preserving our oceans and helping to save all marine life. This is something we must do in vain
+to help the future of the planet or it will die. The oceans provide the planet with so many resources and without it, the world has 
+no chance of life. The greatest killer of the sea is plastic. Plastic has been around since the 19 and its uses have grown and grown 
+to become one of the most common materials in life. It's not a natural material, not a natural resource but it's everywhere and the
+frightening fact behind it is, it doesn't work with the rest of the planet. It kills the planet. This man made material can not be 
+broken down, it will not go away on it's own for thousands of years. It just sits there and helps to kill all of the natural resources
+of the planet. Envirosea has been designed to showcase what plastic is doing to our oceans. What it's killing and how it's going to take
+an absolutely huge cleanup to reverse it's affects. We need to stamp out plastic all over the planet. We can see what it's doing on land.
+We can see the affect on land, we can gather up the plastics and work out what to do with it. In the ocean, it's a hidden killer and we
+need to change this. Welcome to the Envirosea Project.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+## Contents
 
-## Gitpod Reminders
+### 1. UX
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+* [Project Design](#Project-Design)
+* [User Objects](#User-Objects)
+* [Developers Objects](#Developers-Objects)
+* [User Stories](#User-Stories)
+* [Wireframes](#Original-wireframe-concepts)
+* [Deployment](#Deployment)
+* [Testing](#Testing-and-Bugs)
 
-`python3 -m http.server`
 
-A blue button should appear to click: *Make Public*,
+### 2. Features
 
-Another blue button should appear to click: *Open Browser*.
+### 2. Features
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+* [Site Features](#Site-Features)
+* [Future Plans](#Future-plans)
 
-A blue button should appear to click: *Make Public*,
+### 3. Technologies Used 
 
-Another blue button should appear to click: *Open Browser*.
+* [Technologies Used](#Technologies-Used)
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
 
-## Updates Since The Instructional Video
+### Project Functionailty of Envirosea. 
 
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
 
---------
 
-Happy coding!
+
+full stack based project using business logic. The front end 
+
+In this project, you'll build a full-stack site based around business logic used to control a centrally-owned dataset. 
+You will set up an authentication mechanism and provide paid access to the site's data and/or other activities based on
+ the dataset, such as the purchase of a product/service.
+
+Value provided:
+By authenticating on the site and paying for some of its services, users can advance their own goals. Before authenticating, 
+the site makes it clear how those goals would be furthered by the site. The site owner is able to make money by providing this 
+set of services to the users. There is no way for a regular user to bypass the site's mechanisms and derive all of the value 
+available to paid users without paying.
