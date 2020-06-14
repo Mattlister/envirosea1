@@ -171,6 +171,25 @@ realisation of what we're fighting for.
 </p>
 
 
+### Technologies Used
+
+
+* Python
+* HTML
+* CSS
+* JavaScript
+
+### Frameworks and Libraries
+
+* Django
+* Flask
+* [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/
+* [Google Fonts](https://fonts.google.com/) 
+* [Favicons](https://www.favicon.cc/)
+* [Github](https://www.github.com)
+* [Heroku](https://www.heroku.com)
+
+
 
 full stack based project using business logic. The front end 
 
