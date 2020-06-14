@@ -141,6 +141,19 @@ contains the overall colour choices of the site.
   <img width="600" height="100" src="static/images/bluetogreen.jpg">
 </p>
 
+### images
+
+* The images I've chosen for the site are used to show the destruction of the oceans but... on the other side, there are the images
+which show the pure wonder and the beauty of the sea. I feel that if someone is going to use this website as an informative source
+of our oceans disaster areas, it needs to show whats happening and what we're fighting for.
+
+* We are lucky that talented photographers dive into the depths of the ocean and take high definition photos of marine life.
+Those photographs can showcase stunning colour, light and allow us to enjoy some truly amazing colours of fish and plants. 
+But, we also have to see the other side and so my images are used to show everything that the site wants to say. To aid the 
+realisation of what we're fighting for.
+
+### Font's Used
+
 
 
 
