@@ -100,14 +100,39 @@ resources. My goal is for this to become a mainstream site and help change the p
 * Informative and helpful to understand the changes we need to make
 * Easy to use
 * Well designed
-* Engaging with the users
+* Engaging
 * A good strong layout with colour choices
 * Well thought out Content
 
 ### Developer Objects
 
+* A well thought out user experience with crisp clean design
+* A professionally designed site which utilises all functional requests required by the project
+* A strong backend showing understanding of the framework and all other programming languages used
+* The strength of the site will help to focus a users attention on the dangers of plastics in the ocean
 
 
+## Project Design
+
+* When I design a project, I feel the strength of an image can say a great deal. They can bring joy, bring back a memory and
+we always find something within an image. An image can also be added to shock and to bring realisation but not in a cruel
+or vicious way. I understand the term ignorance can be used for all elements of cruelty but in this instance, the way I'm using
+ignorance is to show the devastation of plastics in the ocean and the realisation of what it's doing. There are shocking images 
+as explained but there are also beautiful images and videos of the stunning animals and plantlife that the ocean's give us. 
+
+* In all colour palettes, there are pairings that work well together. Red and black, Black and white or orange and grey. Simple
+colours that can add more to a design then on their own. I've chosen a theme of predominantly blue and white. Blue to focus and tie
+in with the colour of the ocean and white because it's clean. A grey font colour sits nicely between the two and stands out nicely
+on the pages. The images themsleves, frightening and stunning showcase the changes we need to make. The videos are all from vimeo
+and help to aid the design of the site.
+
+* My wireframes have a general layout for the pages and the inital template for my design. There are also concept images which I've
+drawn in Gravit designer. I looked at other sites with a similar theme to get an understanding of what my design would benefit from.
+Going in to this with fresh eyes, I was able to pick out things I believed would work and put together a design that looked good on 
+all screen sizes.
+
+
+### Colours 
 
 
 
