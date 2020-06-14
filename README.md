@@ -134,7 +134,12 @@ all screen sizes.
 
 ### Colours 
 
+The colour palette below displays the core content colours of the site. Based around an aqua design colour palette, I feel This
+contains the overall colour choices of the site.
 
+<p align="center">
+  <img width="600" height="100" src="static/images/bluetogreen.jpg">
+</p>
 
 
 
