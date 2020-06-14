@@ -149,11 +149,26 @@ of our oceans disaster areas, it needs to show whats happening and what we're fi
 
 * We are lucky that talented photographers dive into the depths of the ocean and take high definition photos of marine life.
 Those photographs can showcase stunning colour, light and allow us to enjoy some truly amazing colours of fish and plants. 
-But, we also have to see the other side and so my images are used to show everything that the site wants to say. To aid the 
+But, we also have to see the other side and so my images are used to show everything that the site needs to say. This is to aid the 
 realisation of what we're fighting for.
 
 ### Font's Used
 
+
+
+### Wireframes and concept drawings
+
+<p align="center">
+  <img width="700" height="400" src="wireframes/fullpagehome.jpg">
+</p>
+
+<p align="center">
+  <img width="700" height="400" src="wireframes/tabpagehome.jpg">
+</p>
+
+<p align="center">
+  <img width="700" height="400" src="wireframes/mobpagehome.jpg">
+</p>
 
 
 
