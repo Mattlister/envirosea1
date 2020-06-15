@@ -191,6 +191,16 @@ realisation of what we're fighting for.
 
 
 
+
+### Registration and Login added for security and defensive design
+
+The MS4 website application is required to have defensive design added so a can enter secure information. Secure information
+such as credit card information and address details. Because they'll be entering such details, they must have peace of mind
+that their data is secure.
+
+
+
+
 full stack based project using business logic. The front end 
 
 In this project, you'll build a full-stack site based around business logic used to control a centrally-owned dataset. 
