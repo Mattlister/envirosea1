@@ -198,6 +198,9 @@ The MS4 website application is required to have defensive design added so a can 
 such as credit card information and address details. Because they'll be entering such details, they must have peace of mind
 that their data is secure.
 
+The Django Allauth application was installed and added to the settings.py file which included authentication to secure users login
+when accessing the database (Build on this)
+
 ### Media and Content
 
 * The images were searched and found on Google
