@@ -82,6 +82,16 @@ AUTHENTICATION_BACKENDS = [
 
 SITE_ID = 1
 
+EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
+
+ACCOUNT_AUTHENTICATION_METHOD = 'username_email'  # Tells allauth to use username or emails for authentication
+ACCOUNT_EMAIL_REQUIRED = True   # The following three determine if an email is required to register for the site.
+ACCOUNT_EMAIL_VERIFICATION = 'mandatory'  # It's mandatory so must be real
+ACCOUNT_SIGNUP_EMAIL_ENTER_TWICE = True  # and it has to be entered twice on registration page as typo checker
+ACCOUNT_USERNAME_MIN_LENGTH = 4  # Must have a minimum uername length of 4 characters
+LOGIN_URL = '/accounts/login/'  # Specifies a login
+LOGIN_REDIRECT_URL = '/'  # URL redirect back after logging in
+
 WSGI_APPLICATION = 'envirosea.wsgi.application'
 
 
