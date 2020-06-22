@@ -5,13 +5,12 @@ height: 100%
 }
 
 body {
-    background: var(--primary-color) url("https://player.vimeo.com/external/340670744.sd.mp4?s=710dfd366853ba94ce472c5c59e323b61c2ff8dc&profile_id=164") no-repeat center center fixed;
+    background: url('/media/Hero.jpg') no-repeat center center fixed;
     background-size: cover;
-    height: calc(100vh - 164px);    
-    color: #555555;
+    height: calc(100vh - 164px);
+    color: #555;
     font-family: 'Hind';
 }
-
 
 /* from Bulma */
 .icon {
