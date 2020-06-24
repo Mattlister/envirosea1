@@ -76,18 +76,60 @@
 {"pk": 1, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
 "description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
 "", 
-"image": ""}},
+"image": "trainblue.jpg"}},
 
 {"pk": 1, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
 "description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
 "", 
-"image": ""}},
+"image": "trainwhite.jpg"}},
 
 {"pk": 1, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
 "description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
 "", 
-"image": ""}}
+"image": "traingrey.jpg"}}
 
+{"pk": 1, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
+"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
+"", 
+"image": "notered.jpg"}}
 
+{"pk": 1, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
+"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
+"", 
+"image": "noteblue.jpg"}}
 
+{"pk": 1, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
+"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
+"", 
+"image": "notered2.jpg"}}
+
+{"pk": 1, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
+"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
+"", 
+"image": "bottlegrey.jpg"}}
+
+{"pk": 1, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
+"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
+"", 
+"image": "bottleblack.jpg"}}
+
+{"pk": 1, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
+"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
+"", 
+"image": "bottlenavy.jpg"}}
+
+{"pk": 1, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
+"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
+"", 
+"image": "glasses1.jpg"}}
+
+{"pk": 1, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
+"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
+"", 
+"image": "glasses2.jpg"}}
+
+{"pk": 1, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
+"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
+"", 
+"image": "glasses3.jpg"}}
 ]
