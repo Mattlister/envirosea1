@@ -1,75 +1,92 @@
 [{"pk": 1, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
 "description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
 "", 
-"image": ""}},
-{{"pk": 1, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
+"image": "coatyellow.jpg"}},
+
+{"pk": 1, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
 "description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
 "", 
-"image": ""}},
+"image": "coatwhite.jpg"}},
+
+{"pk": 1, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
+"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
+"", 
+"image": "coatblue.jpg"}},
+
+{"pk": 1, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
+"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
+"", 
+"image": "bagyellow.jpg"}},
+
+{"pk": 1, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
+"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
+"", 
+"image": "bagblue.jpg"}},
+
+{"pk": 1, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
+"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
+"", 
+"image": "bagbrown.jpg"}},
+
+{"pk": 1, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
+"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
+"", 
+"image": "dresswhite.jpg"}},
+
+{"pk": 1, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
+"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
+"", 
+"image": "dressblue.jpg"}},
+
+{"pk": 1, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
+"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
+"", 
+"image": "dressswim.jpg"}},
+
+{"pk": 1, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
+"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
+"", 
+"image": "tshirtblue.jpg"}},
+
+{"pk": 1, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
+"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
+"", 
+"image": "tshirtjawsplastic.jpg"}},
+
+{"pk": 1, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
+"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
+"", 
+"image": "tshirtnoplanet.jpg"}},
+
+{"pk": 1, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
+"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
+"", 
+"image": "tshirtstop.jpg"}},
+
+{"pk": 1, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
+"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
+"", 
+"image": "tshirtwhale.jpg"}},
+
+{"pk": 1, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
+"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
+"", 
+"image": "tshirtbluewave.jpg"}},
+
 {"pk": 1, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
 "description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
 "", 
 "image": ""}},
+
 {"pk": 1, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
 "description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
 "", 
 "image": ""}},
+
 {"pk": 1, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
 "description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
 "", 
-"image": ""}},
-{"pk": 1, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
-"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
-"", 
-"image": ""}},
-{"pk": 1, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
-"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
-"", 
-"image": ""}},
-{"pk": 1, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
-"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
-"", 
-"image": ""}},
-{"pk": 1, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
-"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
-"", 
-"image": ""}},
-{"pk": 1, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
-"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
-"", 
-"image": ""}},
-{"pk": 1, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
-"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
-"", 
-"image": ""}},
-{"pk": 1, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
-"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
-"", 
-"image": ""}},
-{"pk": 1, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
-"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
-"", 
-"image": ""}},
-{"pk": 1, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
-"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
-"", 
-"image": ""}},
-{"pk": 1, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
-"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
-"", 
-"image": ""}},
-{"pk": 1, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
-"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
-"", 
-"image": ""}},
-{"pk": 1, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
-"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
-"", 
-"image": ""}},
-{"pk": 1, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
-"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
-"", 
-"image": ""}},
+"image": ""}}
 
 
 
