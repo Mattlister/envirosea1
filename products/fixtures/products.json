@@ -1,5 +1,5 @@
 [{"pk": 1, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
-"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
+"description": "Made by Bionic Yarn. This brighlty coloured coat is stunning on and really has the best of the nautical theme when worn", "price": 99, "category": 6, "rating": 4.6, "image_url": 
 "", 
 "image": "coatyellow.jpg"}},
 
@@ -9,12 +9,12 @@
 "image": "coatwhite.jpg"}},
 
 {"pk": 3, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
-"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
+"description": "Made from 100 precent recycled polyester, it's also made with goose down for the best insulation ", "price": 99, "category": 6, "rating": 4.6, "image_url": 
 "", 
 "image": "coatblue.jpg"}},
 
 {"pk": 4, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
-"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
+"description": "Made from upcycled plastic trash collected from remote islands, beaches and coastlines. It's a wind protecting jacket", "price": 99, "category": 6, "rating": 4.6, "image_url": 
 "", 
 "image": "bagyellow.jpg"}},
 
@@ -29,7 +29,7 @@
 "image": "bagbrown.jpg"}},
 
 {"pk": 7, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
-"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
+"description": "This bag has two features and can be worn as a backpack or as a Duffel bag. It holds 55 litres and is made from 100 percent recycled plastic.", "price": 99, "category": 6, "rating": 4.6, "image_url": 
 "", 
 "image": "dresswhite.jpg"}},
 
