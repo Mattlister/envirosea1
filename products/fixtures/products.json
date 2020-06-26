@@ -3,75 +3,89 @@
 "", 
 "image": "coatyellow.jpg"}},
 
+
 {"pk": 2, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
-"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
+"description": "Made from upcycled plastic trash collected from remote islands, beaches and coastlines. It's a wind protecting jacket", "price": 99, "category": 6, "rating": 4.6, "image_url": 
 "", 
 "image": "coatwhite.jpg"}},
 
+
 {"pk": 3, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
-"description": "Made from 100 precent recycled polyester, it's also made with goose down for the best insulation ", "price": 99, "category": 6, "rating": 4.6, "image_url": 
+"description": "Made from 100 precent recycled polyester, and made with goose down for the best insulation ", "price": 99, "category": 6, "rating": 4.6, "image_url": 
 "", 
 "image": "coatblue.jpg"}},
 
+
 {"pk": 4, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
-"description": "Made from upcycled plastic trash collected from remote islands, beaches and coastlines. It's a wind protecting jacket", "price": 99, "category": 6, "rating": 4.6, "image_url": 
+"description": "Made with 50% recycled fibres to help reduce the environmental impact of material production", "price": 99, "category": 6, "rating": 4.6, "image_url": 
 "", 
 "image": "bagyellow.jpg"}},
 
+
 {"pk": 5, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
-"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
+"description": "Dubbed the Black Hole collection, this bag is made from recycled plastic bottles.", "price": 99, "category": 6, "rating": 4.6, "image_url": 
 "", 
 "image": "bagblue.jpg"}},
 
 {"pk": 6, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
-"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
+"description": "This bag has two features and can be worn as a backpack or as a Duffel bag. It holds 55 litres and is made from 100 percent recycled plastic.", "price": 99, "category": 6, "rating": 4.6, "image_url": 
 "", 
 "image": "bagbrown.jpg"}},
 
+
+
 {"pk": 7, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
-"description": "This bag has two features and can be worn as a backpack or as a Duffel bag. It holds 55 litres and is made from 100 percent recycled plastic.", "price": 99, "category": 6, "rating": 4.6, "image_url": 
+"description": "The touch of this dress is mind blowing to think it was made from ocean plastics, amazing on", "price": 99, "category": 6, "rating": 4.6, "image_url": 
 "", 
 "image": "dresswhite.jpg"}},
 
 {"pk": 8, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
-"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
+"description": "Made from waste plastic, this dress is truly stunning and the material is so light to wear", "price": 99, "category": 6, "rating": 4.6, "image_url": 
 "", 
 "image": "dressblue.jpg"}},
 
+
 {"pk": 9, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
-"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
+"description": "This wave print designed swimming costume is made from recycled ocean plastics", "price": 99, "category": 6, "rating": 4.6, "image_url": 
 "", 
 "image": "dressswim.jpg"}},
 
+
 {"pk": 10, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
-"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
+"description": "Light and flexible. Made from recycled ocean plastic. Saving our oceans one garment at a time.", "price": 99, "category": 6, "rating": 4.6, "image_url": 
 "", 
 "image": "tshirtblue.jpg"}},
 
+
 {"pk": 11, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
-"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
+"description": "100% cotton, organic and Fairtrade-certified. Protecting the planet in everyway", "price": 99, "category": 6, "rating": 4.6, "image_url": 
 "", 
 "image": "tshirtjawsplastic.jpg"}},
 
 {"pk": 12, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
-"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
+"description": "100% cotton and unisex. This is a great T-shirt for anyone to wear.", "price": 99, "category": 6, "rating": 4.6, "image_url": 
 "", 
 "image": "tshirtnoplanet.jpg"}},
 
 {"pk": 13, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
-"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
+"description": "Made with low waste printing and soft organic cotton.", "price": 99, "category": 6, "rating": 4.6, "image_url": 
 "", 
 "image": "tshirtstop.jpg"}},
 
 {"pk": 14, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
-"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
+"description": "This awesome Plastic Ocean T-Shirt has a fantastic logo and is soft to the touch", "price": 99, "category": 6, "rating": 4.6, "image_url": 
 "", 
 "image": "tshirtwhale.jpg"}},
 
 {"pk": 15, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
-"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
+"description": "Made from certified organic cotton and you can send them back when they're worn out and we will recycle them again", "price": 99, "category": 6, "rating": 4.6, "image_url": 
 "", 
 "image": "tshirtbluewave.jpg"}},
+
+
+
+
+
 
 {"pk": 16, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
 "description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
