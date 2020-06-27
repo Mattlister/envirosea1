@@ -84,66 +84,65 @@
 
 
 
-
-
-
 {"pk": 16, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
-"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
+"description": "Made with Parley ocean plastic which is recycled plastic waste.", "price": 99, "category": 6, "rating": 4.6, "image_url": 
 "", 
 "image": "trainblue.jpg"}},
 
 {"pk": 17, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
-"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
+"description": "Our recycled plastic waste is collected and is to produce these amazing trainers.", "price": 99, "category": 6, "rating": 4.6, "image_url": 
 "", 
 "image": "trainwhite.jpg"}},
 
 {"pk": 18, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
-"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
+"description": "Performance trainers created from recycled ocean plastics.", "price": 99, "category": 6, "rating": 4.6, "image_url": 
 "", 
 "image": "traingrey.jpg"}}
 
+
 {"pk": 19, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
-"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
+"description": "Our Plastic Oceans Notebook - by Ayden", "price": 99, "category": 6, "rating": 4.6, "image_url": 
 "", 
 "image": "notered.jpg"}}
 
 {"pk": 20, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
-"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
+"description": "Our Plastic Ocenas Notebook - by Joshua", "price": 99, "category": 6, "rating": 4.6, "image_url": 
 "", 
 "image": "noteblue.jpg"}}
 
 {"pk": 21, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
-"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
+"description": "Our Plastic Oceans notebook - by Mollie", "price": 99, "category": 6, "rating": 4.6, "image_url": 
 "", 
 "image": "notered2.jpg"}}
 
 {"pk": 22, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
-"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
+"description": "This bottle is wrapped in a neoprene sleeve made from plastic bottles waste", "price": 99, "category": 6, "rating": 4.6, "image_url": 
 "", 
 "image": "bottlegrey.jpg"}}
 
 {"pk": 23, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
-"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
+"description": "Made from recycled sea plastics, a truly inspirational design", "price": 99, "category": 6, "rating": 4.6, "image_url": 
 "", 
 "image": "bottleblack.jpg"}}
 
 {"pk": 24, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
-"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
+"description": "Each bottle funds the collection of 1000 plastic bottles from entering our oceans.", "price": 99, "category": 6, "rating": 4.6, "image_url": 
 "", 
 "image": "bottlenavy.jpg"}}
 
+
 {"pk": 25, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
-"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
+"description": "Our glasses are helping protect all marine life and save the planet", "price": 99, "category": 6, "rating": 4.6, "image_url": 
 "", 
 "image": "glasses1.jpg"}}
 
 {"pk": 26, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
-"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
+"description": "All glasses made from high-density-polythene consumer ocean. plastics", "price": 99, "category": 6, "rating": 4.6, "image_url": 
 "", 
 "image": "glasses2.jpg"}}
 
 {"pk": 27, "model": "products.product", "fields": {"sku": "pp5001340155", "name": "", 
-"description": "", "price": 99, "category": 6, "rating": 4.6, "image_url": 
+"description": "Stylish in design, each pair is helpig the planet.", "price": 99, "category": 6, "rating": 4.6, "image_url": 
 "", 
 "image": "glasses3.jpg"}}
 ]
