@@ -12,4 +12,5 @@
 
 {"pk": 7, "model": "products.category", "fields": {"name": "bottles", "friendly_name": "Water Bottles"}}, 
 
-{"pk": 8, "model": "products.category", "fields": {"name": "shades", "friendly_name": "Shades"}}, 
+{"pk": 8, "model": "products.category", "fields": {"name": "shades", "friendly_name": "Shades"}}
+]
