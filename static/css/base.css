@@ -79,7 +79,7 @@ body {
 }
 
 .btn-black {
-    background: black;
+    background: rgb(72, 163, 238);
     color: white;
 }
 
@@ -89,16 +89,16 @@ body {
 .btn-black:hover,
 .btn-black:active,
 .btn-black:focus {
-    background: #222;
+    background: rgb(5, 46, 160);
     color: white;
 }
 
 .text-black {
-    color: #000 !important;
+    color: rgb(72, 163, 238); !important;
 }
 
 .border-black {
-    border: 1px solid black !important;
+    border: 1px solid blue !important;
 }
 
 .overlay {
