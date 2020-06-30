@@ -1,8 +1,11 @@
 
+/* html elements for vertical centering */
+
 html {
 
 height: 100%
 }
+
  /* Beginning of section that holds the edits, design and layout for the video background on the home page */
 .section {
   position: relative;
@@ -39,7 +42,7 @@ height: 100%
   background-color: lightblue;
   width: 100%;
   height: 100vh;
-  opacity: 0.5;
+  opacity: 0.2;
 }
 
 /* End of video section settings */
