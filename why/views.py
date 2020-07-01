@@ -5,4 +5,4 @@ from django.shortcuts import render
 
 def index(request):
     """ View to return index page """
-    return render(request, 'help/helpthecause.html')
+    return render(request, 'why/whychange.html')
