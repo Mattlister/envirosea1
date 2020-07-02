@@ -85,9 +85,10 @@ body {
 }
 
 .shop-now-button {
-    background: black;
-    color: white;
+    background: white;
+    color: black;
     min-width: 260px;
+    opacity: 0.3;
 }
 
 .btn-black {
@@ -98,7 +99,7 @@ body {
 .shop-now-button:hover,
 .shop-now-button:active,
 .shop-now-button:focus,
-.btn-black:hover,
+.btn-blak:hover,
 .btn-black:active,
 .btn-black:focus {
     background: rgb(5, 46, 160);
