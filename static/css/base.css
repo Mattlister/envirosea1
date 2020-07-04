@@ -103,7 +103,7 @@ body {
 .btn-black:active,
 .btn-black:focus {
     background: rgb(5, 46, 160);
-    color: white;
+    color: blue;
 }
 
 .text-black {
@@ -111,6 +111,10 @@ body {
 }
 
 .border-black {
+    border: 1px solid blue !important;
+}
+
+.bg-blue {
     border: 1px solid blue !important;
 }
 
