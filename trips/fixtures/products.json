@@ -1,0 +1,121 @@
+[
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+      "sku": "",
+      "name": "The Great Barrier Reef Dive",
+      "description": "One of the greatest natural resources on Earth. See the amazing colours and biodiversity of this breathtaking vision of mothernature. This trip as well as being beautiful will also allow you to see what we're defending in the oceans. You'll also find out about another fight of the Barrier Reef and the bleaching of the coral due to climate change.",
+      "price": 30.0,
+      "category": 1,
+      "rating": 4.6,
+      "image_url": "",
+      "image": ""
+    }
+  },
+
+  {
+    "pk": 2,
+    "model": "products.product",
+    "fields": {
+      "sku": "",
+      "name": "Discovering the Cayman Islands",
+      "description": "You'll discover shipwrecks and amazing marine life on this dive. Turtles and Stingrays are also frequent in this part of the ocean. Two animals we've seen destroyed by plastics in our oceans. Mother Nature has given us some great gifts and we want more people to see what we're fighting for in all it's glory and wonder.",
+      "price": 30.0,
+      "category": 1,
+      "rating": 4.6,
+      "image_url": "",
+      "image": ""
+    }
+  },
+
+  {
+    "pk": 3,
+    "model": "products.product",
+    "fields": {
+      "sku": "",
+      "name": "The Madagascar Dive Adventure",
+      "description": "On this dive, we discover the wildlife and natural wonders of northern Madagascars oceans. This will include a liveaboard dive adventure exploring the reefs and stunning islands where you'll see giants of the ocean including whale sharks and humpback whales.",
+      "price": 30.0,
+      "category": 1,
+      "rating": 4.6,
+      "image_url": "",
+      "image": "coatblue.jpg"
+    }
+  },
+
+  {
+    "pk": 4,
+    "model": "products.product",
+    "fields": {
+      "sku": "",
+      "name": "Sunshine Yellow",
+      "description": "Made with 50% recycled fibres to help reduce the environmental impact of material production",
+      "price": 12.99,
+      "category": 2,
+      "rating": 4.6,
+      "image_url": "",
+      "image": "bagyellow.jpg"
+    }
+  },
+
+  {
+    "pk": 5,
+    "model": "products.product",
+    "fields": {
+      "sku": "",
+      "name": "Oxygen Blue",
+      "description": "Dubbed the Black Hole collection, this bag is made from recycled plastic bottles.",
+      "price": 12.99,
+      "category": 2,
+      "rating": 4.6,
+      "image_url": "",
+      "image": "bagblue.jpg"
+    }
+  },
+
+  {
+    "pk": 6,
+    "model": "products.product",
+    "fields": {
+      "sku": "",
+      "name": "Autumn Brown",
+      "description": "This bag has two features and can be worn as a backpack or as a Duffel bag. It holds 55 litres and is made from 100 percent recycled plastic.",
+      "price": 99,
+      "category": 2,
+      "rating": 4.6,
+      "image_url": "",
+      "image": "bagbrown.jpg"
+    }
+  },
+
+  {
+    "pk": 7,
+    "model": "products.product",
+    "fields": {
+      "sku": "",
+      "name": "White Surf",
+      "description": "The touch of this dress is mind blowing to think it was made from ocean plastics, amazing on",
+      "price": 12.99,
+      "category": 3,
+      "rating": 4.6,
+      "image_url": "",
+      "image": "dresswhite.jpg"
+    }
+  },
+
+  {
+    "pk": 8,
+    "model": "products.product",
+    "fields": {
+      "sku": "",
+      "name": "Blue Surf",
+      "description": "Made from waste plastic, this dress is truly stunning and the material is so light to wear",
+      "price": 35.0,
+      "category": 3,
+      "rating": 4.6,
+      "image_url": "",
+      "image": "dressblue.jpg"
+    }
+  }
+]
