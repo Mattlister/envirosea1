@@ -6,7 +6,7 @@ html {
 height: 100%
 }
 
- /* Beginning of section that holds the edits, design and layout for the video background on the home page */
+ /* Beginning of section that holds the edits, design and layout for the video background on the home page
 .section {
   position: relative;
   width: 100%;
@@ -17,16 +17,7 @@ height: 100%
   overflow: hidden;
 }
 
-.section h1 {
-  text-align: center;
-  font-size:8vw;
-  font-family: "Hind";
-  padding: 20px;
-  margin: 15px;
-  z-index: 1;
-  color: #ffffff;
-  opacity: 0.8;
-}
+
 
 .video-container {
   position: absolute;
@@ -54,9 +45,9 @@ height: 100%
   opacity: 0.2;
 }
 
-/* End of video section settings */
+*/
 
-/*
+
 
 body {
     background: url('/media/Hero.jpg') no-repeat center center fixed;
@@ -65,7 +56,17 @@ body {
     color: #555;
     font-family: 'Hind';
 }
-*/
+
+.section h1 {
+  text-align: center;
+  font-size:8vw;
+  font-family: "Hind";
+  padding: 20px;
+  margin: 15px;
+  z-index: 1;
+  color: #ffffff;
+  opacity: 0.8;
+}
 
 /* from Bulma */
 .icon {
@@ -114,9 +115,7 @@ body {
     border: 1px solid blue !important;
 }
 
-.bg-blue {
-    border: 1px solid blue !important;
-}
+
 
 .overlay {
     height: 100%;
