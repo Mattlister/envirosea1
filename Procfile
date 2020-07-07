@@ -1,1 +1,1 @@
-web: gunicorn envirosea.wsgi:application
+web: gunicorn mattlister-envirosea.wsgi:application

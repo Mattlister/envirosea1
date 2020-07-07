@@ -107,17 +107,17 @@ WSGI_APPLICATION = 'envirosea.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/3.0/ref/settings/#databases
 
-
-#    DATABASES = {
-#        'default': {
-#           'ENGINE': 'django.db.backends.sqlite3',
-#            'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
-#        }
-#    }
-
-DATABASES = {
-    'default': dj_database_url.parse('postgres://gydeqdjtlxaqth:517182956a801f14692d3220ea0acf9afee4d73e1f5debf2b8d05a33ac6c7c02@ec2-54-247-89-181.eu-west-1.compute.amazonaws.com:5432/d1sjcsc0hqhvdj')
-}
+if 'DATABASE_URL' in os.environ:
+    DATABASES = {
+        'default': dj_database_url.parse(os.environ.get('DATABASE_URL'))
+    }
+else:
+    DATABASES = {
+            'default': {
+                'ENGINE': 'django.db.backends.sqlite3',
+                'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+            }
+        }
 
 # Password validation
 # https://docs.djangoproject.com/en/3.0/ref/settings/#auth-password-validators
